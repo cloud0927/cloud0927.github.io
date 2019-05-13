@@ -1,0 +1,9 @@
+#logo {padding-left:40px; padding-top:20pt;}
+nav {font-size:10pt; padding-left:40px; line-height:20pt; width:10%; float:left;}
+#profile:visited {color:black; text-decoration:none;}
+#it:visited {color:black; text-decoration:none;}
+#profile:link {color:black; text-decoration:none;}
+#it:link {color:black; text-decoration:none;}
+article {text-align:center; padding:30px; display:block; width:80%; float:left; margin-left:20px;}
+#about {font-size:10pt; line-height:20pt; text-align:left; padding-left:30px;}
+#pic {position: fixed; width:120px; top:40px; right:45px;}
